@@ -1,4 +1,5 @@
 ﻿# Vb.net-audio-player
+ ![vb](https://user-images.githubusercontent.com/75309502/208018031-50747788-b1bd-4f32-8aa2-98e323c4c3e3.jpg)
  <h4>
  仕 様 書<br>
 ・音声ファイルを読み込み、リストに追加。<br>
