@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ジョンセロム_インタン
+</name>
+</assembly>
+<members>
+<member name="T:ジョンセロム_インタン.My.Resources.Resources">
+<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member>
+<member name="P:ジョンセロム_インタン.My.Resources.Resources.ResourceManager">
+<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member>
+<member name="P:ジョンセロム_インタン.My.Resources.Resources.Culture">
+<summary>
+  すべてについて、現在のスレッドの CurrentUICulture プロパティをオーバーライドします
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member>
+<member name="P:ジョンセロム_インタン.My.Resources.Resources._4e5366b841dc351c507a9fce3a65b263_t">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:ジョンセロム_インタン.My.Resources.Resources._5">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:ジョンセロム_インタン.My.Resources.Resources.Hb9706db286ee491b9f36534f3bd8a275C">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:ジョンセロム_インタン.My.Resources.Resources.imgUrl20190322031225859">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:ジョンセロム_インタン.My.Resources.Resources.다운로드">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+</members>
+</doc>

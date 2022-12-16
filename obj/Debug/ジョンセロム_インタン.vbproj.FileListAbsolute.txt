@@ -1,0 +1,17 @@
+C:\Users\jsr32\OneDrive\1411~1-DESKTOP-DAI99MF\ジョンセロム_インタン\ジョンセロム_インタン\bin\Debug\ジョンセロム_インタン.exe.config
+C:\Users\jsr32\OneDrive\1411~1-DESKTOP-DAI99MF\ジョンセロム_インタン\ジョンセロム_インタン\bin\Debug\ジョンセロム_インタン.exe
+C:\Users\jsr32\OneDrive\1411~1-DESKTOP-DAI99MF\ジョンセロム_インタン\ジョンセロム_インタン\bin\Debug\ジョンセロム_インタン.pdb
+C:\Users\jsr32\OneDrive\1411~1-DESKTOP-DAI99MF\ジョンセロム_インタン\ジョンセロム_インタン\bin\Debug\ジョンセロム_インタン.xml
+C:\Users\jsr32\OneDrive\1411~1-DESKTOP-DAI99MF\ジョンセロム_インタン\ジョンセロム_インタン\obj\Debug\ジョンセロム_インタン.vbproj.AssemblyReference.cache
+C:\Users\jsr32\OneDrive\1411~1-DESKTOP-DAI99MF\ジョンセロム_インタン\ジョンセロム_インタン\obj\Debug\ジョンセロム_インタン.Form1.resources
+C:\Users\jsr32\OneDrive\1411~1-DESKTOP-DAI99MF\ジョンセロム_インタン\ジョンセロム_インタン\obj\Debug\ジョンセロム_インタン.Resources.resources
+C:\Users\jsr32\OneDrive\1411~1-DESKTOP-DAI99MF\ジョンセロム_インタン\ジョンセロム_インタン\obj\Debug\ジョンセロム_インタン.vbproj.GenerateResource.cache
+C:\Users\jsr32\OneDrive\1411~1-DESKTOP-DAI99MF\ジョンセロム_インタン\ジョンセロム_インタン\obj\Debug\ジョンセロム_インタン.vbproj.CoreCompileInputs.cache
+C:\Users\jsr32\OneDrive\1411~1-DESKTOP-DAI99MF\ジョンセロム_インタン\ジョンセロム_インタン\obj\Debug\ジョンセロム_インタン.exe
+C:\Users\jsr32\OneDrive\1411~1-DESKTOP-DAI99MF\ジョンセロム_インタン\ジョンセロム_インタン\obj\Debug\ジョンセロム_インタン.xml
+C:\Users\jsr32\OneDrive\1411~1-DESKTOP-DAI99MF\ジョンセロム_インタン\ジョンセロム_インタン\obj\Debug\ジョンセロム_インタン.pdb
+C:\Users\jsr32\OneDrive\1411~1-DESKTOP-DAI99MF\ジョンセロム_インタン\ジョンセロム_インタン\obj\Debug\Interop.WMPLib.dll
+C:\Users\jsr32\OneDrive\1411~1-DESKTOP-DAI99MF\ジョンセロム_インタン\ジョンセロム_インタン\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\jsr32\OneDrive\1411~1-DESKTOP-DAI99MF\ジョンセロム_インタン\ジョンセロム_インタン\obj\Debug\ジョンセロム_インタン.vbproj.ResolveComReference.cache
+C:\Users\jsr32\OneDrive\1411~1-DESKTOP-DAI99MF\ジョンセロム_インタン\ジョンセロム_インタン\bin\Debug\Interop.WMPLib.dll
+C:\Users\jsr32\OneDrive\1411~1-DESKTOP-DAI99MF\ジョンセロム_インタン\ジョンセロム_インタン\bin\Debug\AxInterop.WMPLib.dll
